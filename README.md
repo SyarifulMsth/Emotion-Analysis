@@ -22,7 +22,7 @@ Referensi  :
 
 ### Solution Statement
 
-Solusi untuk meraih goals tersebut adalah dengan melakukan analisis sentimen atau klasifikasi emosi pada data teks menggunakan metode klasifikasi NLP. Dalam proyek ini, akan digunakan pendekatan NLP dengan memanfaatkan layer LSTM (Long Short-Term Memory) dan RNN (Recurrent Neural Network) untuk memahami konteks dan pola-pola dalam teks yang berkaitan dengan emosi. LSTM dan RNN dikenal efektif dalam memodelkan hubungan jangka panjang dalam data berurutan seperti teks, sehingga diharapkan mampu menghasilkan model yang dapat mengenali dan mengklasifikasikan emosi dengan akurat.
+Solusi untuk meraih goals tersebut adalah dengan melakukan analisis sentimen atau klasifikasi emosi pada data teks menggunakan metode klasifikasi NLP. Dalam proyek ini, akan digunakan pendekatan NLP dengan memanfaatkan layer LSTM (Long Short-Term Memory) dan RNN (Recurrent Neural Network) untuk memahami konteks dan pola-pola dalam teks yang berkaitan dengan emosi. 
 
 ## Data Understanding 
 Dataset yang dipakai dalam proyek machine learning in merupakan *Emotion Dataset* dengan xx records data. Dataset tersebut bersifat *open-source* yang dapat diakses oleh siapa saja di [Kaggle](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset).  Topik dari dataset ini adalah analisis sentimen yang berformat .csv (*comma separated values*) dengan ukuran 614.06 kB.
